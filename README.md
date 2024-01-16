@@ -7,6 +7,7 @@ Greetings! 👋 I am currently in my fourth year pursuing a Bachelor's degree in
 
 ### Language & Tools
 HTML | CSS | Javascript | React | Tailwind CSS | Bootstrap | Git | Github
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 
 LinkedIn : https://www.linkedin.com/in/wdotgonzales/
 
