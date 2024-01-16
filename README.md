@@ -5,7 +5,8 @@
 
 Greetings! 👋 I am currently in my fourth year pursuing a Bachelor's degree in Information Technology at STI West Negros University. Passionate about web development, I find immense joy in transforming ideas into tangible, interactive solutions. I thrive on challenges and derive satisfaction from overcoming obstacles. Problem-solving is not just a skill; it's a mindset that I bring to every coding task. I believe that the best solutions come from a combination of innovation, logic, and a dash of creativity.
 
-Skills: :  HTML | CSS | Javascript | React | Tailwind CSS | Bootstrap | Git | Github
+### Language & Tools
+HTML | CSS | Javascript | React | Tailwind CSS | Bootstrap | Git | Github
 
 LinkedIn : https://www.linkedin.com/in/wdotgonzales/
 
