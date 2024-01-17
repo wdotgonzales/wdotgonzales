@@ -17,7 +17,8 @@ Greetings! 👋 I am currently in my fourth year pursuing a Bachelor's degree in
   <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
 
-<br>
+### Links
+- [LinkedIn](https://www.linkedin.com/in/wdotgonzales/)
 
 
 <!--
