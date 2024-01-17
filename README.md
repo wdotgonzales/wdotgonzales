@@ -8,14 +8,14 @@ Greetings! 👋 I am currently in my fourth year pursuing a Bachelor's degree in
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdotgonzales&show_icons=true&theme=tokyonight)
 
 ### Language & Tools
-<div>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-</div>
+
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/wdotgonzales/)
