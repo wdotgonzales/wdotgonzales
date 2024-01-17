@@ -8,9 +8,12 @@ Greetings! 👋 I am currently in my fourth year pursuing a Bachelor's degree in
 
 #
 
-<div style="text-align:center;">
+<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdotgonzales&show_icons=true&theme=tokyonight)
-</div>
+
+</center>
+
 
 #
 
